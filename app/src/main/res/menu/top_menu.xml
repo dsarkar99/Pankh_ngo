@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+
+<!--    <item
+        android:id="@+id/points"
+        android:gravity="center"
+        android:title="Points : 0"
+        app:showAsAction="always" />-->
+
+    <item
+        android:id="@+id/code"
+        android:title="Barcode"
+        android:gravity="center"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/ltxt"
+        android:title="Login"
+        android:gravity="center"
+        app:showAsAction="always" />
+
+<!--    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="Share"
+        android:gravity="center"
+        app:showAsAction="always"
+        />-->
+</menu>
